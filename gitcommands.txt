@@ -1,0 +1,15 @@
+
+    git init - initialise a bit repository
+git clone [URL] - clone repository to local
+ls - list files
+cd - change directory to root (DANGEROUS)
+cd [directory] - changes to a directory
+git checkout - shows available brnahces
+git checkout [BRANCH_NAME] - switches to specified branch
+git branch -b [BRANCH_NAME] - create new branch and switches to it
+git branch -d [BRANCH_NAME] - deletes specified branch
+git add . - adds all files to staging area
+git add [FILE_NAME], - adds specified name
+git commit -m "comment" - commits changes from staging area
+git pull - pulls latest repository
+<https://teams.microsoft.com/l/message/19:wC5tCaolNWJ-135keVJ_Jef1emxbdENtvVhHqZbOFcc1@thread.tacv2/1634224498281?tenantId=9c220797-c337-49f8-b086-a9a24979f728&amp;groupId=b2f039eb-2df1-4028-991a-63a65fe3cc61&amp;parentMessageId=1634198366020&amp;teamName=21OCTDEVOPS1&amp;channelName=General&amp;createdTime=1634224498281>
